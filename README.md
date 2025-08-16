@@ -1,7 +1,7 @@
 # Welcome to [Bhaskar Lal Das]'s GitHub Profile!
 
 ## About Me
-Hey there! I'm [Bhaskar Lal Das], a passionate tech enthusiast with a diverse skill set. Currently, I'm pursuing my B.Tech at NITAP, where I'm majoring in [ECE]. I have a keen interest and substantial experience in various domains including Data Science, AI/ML Engineering, Data Engineering, Full Stack Development, and UI/UX Design.
+Hey there! I'm [Bhaskar Lal Das], a passionate tech enthusiast with a diverse skill set. Currently, I'm pursuing my PhD. at IITK, where I'm majoring in [EE]. I have a keen interest and substantial experience in various domains at the intersection of VLSI along Data Science, AI/ML Engineering, Data Engineering, Full Stack Development, and UI/UX Design.
 
 ## What I Do
 - **Data Science:** Leveraging data to extract insights, build predictive models, and make informed decisions.
